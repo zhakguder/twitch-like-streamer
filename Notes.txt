@@ -1,0 +1,5 @@
+Things to review:
+Google Auth flow
+
+
+dispatch async stuff is from redux-thunk
